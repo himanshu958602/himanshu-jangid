@@ -85,7 +85,3 @@ Server says: Hello Client!
    ```powershell
    java Client
    ``` -->
-
-## Author
-
-Kovid Gupta
